@@ -1,0 +1,1 @@
+UPDATE actividades.articulos SET precio = precio * 0.9;
